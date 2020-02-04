@@ -1,7 +1,6 @@
 ## Welcome to D&X's First Pototype
 
-You can use the [editor on GitHub](https://github.com/Kyasubaru/D-X-pototype/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+鹏抟九万，腰缠万贯，扬州鹤背骑来惯。事间关，景阑珊，黄金不富英雄汉。一片世情天地间。白，也是眼。青，也是眼。
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
